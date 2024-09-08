@@ -1,7 +1,3 @@
-Aqui está um exemplo de um **README** para o projeto, explicando que o sistema será implementado em PHP com o framework Symfony, PHP sem framework e Python, baseado nas especificações anteriores.
-
----
-
 # Sistema de Registro de Consultas para Consultório de Psicologia
 
 Este projeto tem como objetivo demonstrar a implementação de um **sistema de registro de consultas** para um consultório de psicologia. O sistema será implementado em três abordagens diferentes: 
@@ -183,4 +179,3 @@ Para mais detalhes sobre cada uma das implementações, consulte a pasta corresp
 
 ---
 
-Sinta-se à vontade para ajustar os detalhes conforme as especificações específicas de cada projeto ou para adicionar mais informações que sejam relevantes para a execução dos exemplos no seu ambiente.
